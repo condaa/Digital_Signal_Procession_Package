@@ -1,0 +1,7 @@
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\bin\Debug\Algorithms\FIR.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\bin\Debug\DataStructures\FilterTypes.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojResolveAssemblyReference.cache

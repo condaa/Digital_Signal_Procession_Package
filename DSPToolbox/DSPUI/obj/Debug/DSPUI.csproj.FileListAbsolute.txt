@@ -1,0 +1,96 @@
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\bin\Debug\DSPUI.exe.config
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\bin\Debug\DSPUI.exe
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\bin\Debug\DSPUI.pdb
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.Form1.resources
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.Cache
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.exe
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.pdb
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\bin\Debug\DSPUI.exe.config
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.exe
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\Media\Warning.png
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe.config
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\DSPUI.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\DSPComponents.dll
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\OxyPlot.dll
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.dll
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\DSPComponents.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\OxyPlot.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\OxyPlot.xml
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.xml
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.csprojResolveAssemblyReference.cache
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.DiscreteFourierTransform.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FastFourierTransform.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FileInputSignal.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MovingAverage.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MultiplySignalByConstant.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Normalizer.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.QuantizationAndEncoding.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Shifter.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.DSPToolbox.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.Cache
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.exe
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\Media\Warning.png
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe.config
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\DSPUI.pdb
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\DSPComponents.dll
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.dll
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.dll
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\DSPComponents.pdb
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.pdb
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.xml
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.xml
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.DiscreteFourierTransform.resources
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FastFourierTransform.resources
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FileInputSignal.resources
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MovingAverage.resources
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MultiplySignalByConstant.resources
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Normalizer.resources
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.QuantizationAndEncoding.resources
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Shifter.resources
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.DSPToolbox.resources
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.Cache
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.exe
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\Algorithms\FIR.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\DataStructures\FilterTypes.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\Media\Warning.png
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\ComponentsAttriutesEditor\FIR.resx
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\ComponentsAttriutesEditor\FIR.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\ComponentsAttriutesEditor\FIR.Designer.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\Components\FIR.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe.config
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\DSPUI.pdb
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\DSPComponents.dll
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\OxyPlot.dll
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.dll
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\DSPComponents.pdb
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\OxyPlot.pdb
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\OxyPlot.xml
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.xml
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.csprojResolveAssemblyReference.cache
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.DiscreteFourierTransform.resources
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FastFourierTransform.resources
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FileInputSignal.resources
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FIR.resources
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MovingAverage.resources
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MultiplySignalByConstant.resources
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Normalizer.resources
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.QuantizationAndEncoding.resources
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Shifter.resources
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.DSPToolbox.resources
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.Cache
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.exe
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb

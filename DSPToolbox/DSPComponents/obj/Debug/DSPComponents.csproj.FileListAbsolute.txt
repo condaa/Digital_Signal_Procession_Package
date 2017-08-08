@@ -1,0 +1,5 @@
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponents\obj\Debug\DSPComponents.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponents\obj\Debug\DSPComponents.pdb

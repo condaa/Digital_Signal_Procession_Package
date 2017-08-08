@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9EC5690A-436E-4ED9-A0A2-42A7249CD97C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DSPUI</RootNamespace>
+    <AssemblyName>DSPUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="OxyPlot">
+      <HintPath>..\packages\OxyPlot.Core.1.0.0\lib\net45\OxyPlot.dll</HintPath>
+    </Reference>
+    <Reference Include="OxyPlot.WindowsForms">
+      <HintPath>..\packages\OxyPlot.WindowsForms.1.0.0\lib\net45\OxyPlot.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ComponentsAttriutesEditor\DiscreteFourierTransform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\DiscreteFourierTransform.Designer.cs">
+      <DependentUpon>DiscreteFourierTransform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\FastFourierTransform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\FastFourierTransform.Designer.cs">
+      <DependentUpon>FastFourierTransform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\FileInputSignal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\FileInputSignal.Designer.cs">
+      <DependentUpon>FileInputSignal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\FIR.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\FIR.Designer.cs">
+      <DependentUpon>FIR.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\MovingAverage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\MovingAverage.Designer.cs">
+      <DependentUpon>MovingAverage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\MultiplySignalByConstant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\MultiplySignalByConstant.Designer.cs">
+      <DependentUpon>MultiplySignalByConstant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\Normalizer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\Normalizer.Designer.cs">
+      <DependentUpon>Normalizer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\QuantizationAndEncoding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\QuantizationAndEncoding.Designer.cs">
+      <DependentUpon>QuantizationAndEncoding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\Shifter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComponentsAttriutesEditor\Shifter.Designer.cs">
+      <DependentUpon>Shifter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\Adder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\Component.cs" />
+    <Compile Include="Components\Convolution.cs" />
+    <Compile Include="Components\Correlation.cs" />
+    <Compile Include="Components\DiscreteFourierTransform.cs" />
+    <Compile Include="Components\FastFourierTransform.cs" />
+    <Compile Include="Components\FileInputSignal.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\FIR.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Components\Folder.cs" />
+    <Compile Include="Components\InverseDiscreteFourierTransform.cs" />
+    <Compile Include="Components\InverseFastFourierTransform.cs" />
+    <Compile Include="Components\MovingAverage.cs" />
+    <Compile Include="Components\MultiplySignalByConstant.cs" />
+    <Compile Include="Components\Normalizer.cs" />
+    <Compile Include="Components\Plotter.cs" />
+    <Compile Include="Components\QuantizationAndEncoding.cs" />
+    <Compile Include="Components\Shifter.cs" />
+    <Compile Include="Components\Subtractor.cs" />
+    <Compile Include="DSPToolbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSPToolbox.Designer.cs">
+      <DependentUpon>DSPToolbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\ComponentUtility.cs" />
+    <Compile Include="Utilities\GraphPlotter.cs" />
+    <EmbeddedResource Include="ComponentsAttriutesEditor\DiscreteFourierTransform.resx">
+      <DependentUpon>DiscreteFourierTransform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComponentsAttriutesEditor\FastFourierTransform.resx">
+      <DependentUpon>FastFourierTransform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComponentsAttriutesEditor\FileInputSignal.resx">
+      <DependentUpon>FileInputSignal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComponentsAttriutesEditor\FIR.resx">
+      <DependentUpon>FIR.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComponentsAttriutesEditor\MovingAverage.resx">
+      <DependentUpon>MovingAverage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComponentsAttriutesEditor\MultiplySignalByConstant.resx">
+      <DependentUpon>MultiplySignalByConstant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComponentsAttriutesEditor\Normalizer.resx">
+      <DependentUpon>Normalizer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComponentsAttriutesEditor\QuantizationAndEncoding.resx">
+      <DependentUpon>QuantizationAndEncoding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComponentsAttriutesEditor\Shifter.resx">
+      <DependentUpon>Shifter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DSPToolbox.resx">
+      <DependentUpon>DSPToolbox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="testfile.ds" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DSPComponents\DSPAlgorithms.csproj">
+      <Project>{7a3b0c0a-5154-4c6f-a5a0-a731f83f736c}</Project>
+      <Name>DSPAlgorithms</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Media\Logo.png" />
+    <Content Include="Media\Spongebob.ico" />
+    <Content Include="Media\Spongebob2.ico" />
+    <Content Include="Media\Warning.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

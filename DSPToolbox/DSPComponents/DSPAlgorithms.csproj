@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7A3B0C0A-5154-4C6F-A5A0-A731F83F736C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DSPAlgorithms</RootNamespace>
+    <AssemblyName>DSPComponents</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="system.numerics" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Algorithms\Algorithm.cs" />
+    <Compile Include="Algorithms\Adder.cs" />
+    <Compile Include="Algorithms\Convolution.cs" />
+    <Compile Include="Algorithms\DirectConvolution.cs" />
+    <Compile Include="Algorithms\DirectCorrelation.cs" />
+    <Compile Include="Algorithms\DiscreteFourierTransform.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithms\FastConvolution.cs" />
+    <Compile Include="Algorithms\FastCorrelation.cs" />
+    <Compile Include="Algorithms\FastFourierTransform.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithms\FIR.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Algorithms\Folder.cs" />
+    <Compile Include="Algorithms\InverseDiscreteFourierTransform.cs" />
+    <Compile Include="Algorithms\InverseFastFourierTransform.cs" />
+    <Compile Include="Algorithms\MovingAverage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithms\MultiplySignalByConstant.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithms\Correlation.cs" />
+    <Compile Include="Algorithms\Normalizer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithms\QuantizationAndEncoding.cs" />
+    <Compile Include="Algorithms\Shifter.cs" />
+    <Compile Include="Algorithms\Subtractor.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithms\Utilities.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataStructures\FilterTypes.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DataStructures\Signal.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

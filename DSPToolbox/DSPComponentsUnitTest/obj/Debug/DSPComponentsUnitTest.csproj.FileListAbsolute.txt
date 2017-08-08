@@ -1,0 +1,69 @@
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.dll
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.pdb
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.dll
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.pdb
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.dll
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.dll
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.dll
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.csprojResolveAssemblyReference.cache
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.dll
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.pdb
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\SignalFileConstruction
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.dll
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.pdb
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.dll
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.pdb
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.dll
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.pdb
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\Algorithms\FIR.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DataStructures\FilterTypes.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\FIRTestCases.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\ShiftingAndFolding.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\UnitTestUtitlities.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Adder_TestCase1.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Adder_TestCase2.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Adder_TestCase3.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\BPFCoefficients.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\BSFCoefficients.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\ecg400.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\ecg_band_pass_filtered.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\ecg_band_stop_filtered.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\ecg_high_pass_filtered.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\ecg_low_pass_filtered.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\HPFCoefficients.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Input_ShiftFold.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\LPFCoefficients.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\MovingAverage_TestCase1.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\MovingAverage_TestCase2.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\MultiplySignalByConstant_TestCase1.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\MultiplySignalByConstant_TestCase2.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\MultiplySignalByConstant_TestCase3.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Normalizer_TestCase1.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Normalizer_TestCase2.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Output_Fold.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Output_Fold_Minus500.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Output_Fold_Plus500.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Output_Shift_Minus500.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Output_Shift_Plus500.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Signal1.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Signal2.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Signal3.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Signal4.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Signal5.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\SignalFileConstruction
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Subtractor_TestCase1.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Subtractor_TestCase2.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Subtractor_TestCase3.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Subtractor_TestCase4.ds
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.dll
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.pdb
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.dll
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.pdb
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.csprojResolveAssemblyReference.cache
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.dll
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.pdb
